@@ -1,0 +1,11 @@
+﻿id_demanda,titulo,descricao,data_criacao,prazo,story_points,solicitante,departamento,status,prioridade,responsavel,sprint,ordem_status,ordem_prioridade
+1,Automatização de relatório financeiro,Criar relatório automatizado para acompanhamento dos indicadores financeiros.,2026-10-01 09:15:41.702453,2026-10-15,5,Ana Souza,Financeiro,Nova,Média,,,1,2
+2,Integração do CRM,Integrar dados comerciais com o sistema interno.,2026-09-22 09:00:00.000000,2026-10-18,8,Carlos Lima,Comercial,Em execução,Alta,Gabriel Santos,Sprint 1,4,3
+3,Dashboard de Marketing,Criar dashboard para acompanhamento das campanhas.,2026-09-24 10:00:00.000000,2026-10-12,5,Marina Alves,Marketing,Em execução,Média,Beatriz Costa,Sprint 1,4,2
+4,Automação de onboarding,Automatizar etapas do processo de entrada de colaboradores.,2026-09-25 08:00:00.000000,2026-10-20,8,Fernanda Rocha,RH,Backlog,Alta,Juliana Ferreira,Sprint 1,3,3
+5,Correção no sistema operacional,Corrigir inconsistência identificada no processo operacional.,2026-09-20 09:00:00.000000,2026-10-05,3,Rafael Mendes,Operações,Concluída,Crítica,Lucas Martins,Sprint 1,6,4
+6,Relatório comercial,Criar relatório de acompanhamento das vendas.,2026-09-21 10:00:00.000000,2026-10-10,3,Carlos Lima,Comercial,Concluída,Média,Beatriz Costa,Sprint 1,6,2
+7,Automação de planilha financeira,Automatizar consolidação mensal de dados financeiros.,2026-10-01 09:25:06.033073,2026-10-22,5,Ana Souza,Financeiro,Backlog,Média,Juliana Ferreira,Sprint 1,3,2
+8,Melhoria no CRM,Implementar melhoria no fluxo de cadastro de clientes.,2026-10-01 09:25:06.033073,2026-10-25,5,Carlos Lima,Comercial,Em triagem,Média,Gabriel Santos,,2,2
+9,Indicadores de RH,Criar indicadores para acompanhamento de processos de RH.,2026-10-01 09:25:06.033073,2026-10-28,3,Fernanda Rocha,RH,Nova,Baixa,,,1,1
+10,Integração de dados operacionais,Centralizar informações provenientes dos sistemas operacionais.,2026-10-01 09:25:06.033073,2026-10-30,8,Rafael Mendes,Operações,Em triagem,Alta,,,2,3
